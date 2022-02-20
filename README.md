@@ -5,4 +5,4 @@
 
 # Curso de Laravel
 
-Projeto site de eventos, um exemplo para demonstração de funcionalidades comuns com Laravel, desenvolvido durante o curso do "Hora de Codar".
+Projeto Site de Eventos. Um exemplo para demonstração de funcionalidades comuns com Laravel, desenvolvido durante o curso do "Hora de Codar".
